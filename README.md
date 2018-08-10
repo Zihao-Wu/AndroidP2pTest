@@ -15,6 +15,6 @@ Peer onDataChannel=org.webrtc.DataChannel@bf04e5c
 可在输入框输入文字，->发送，另一设备将会收到并显示，发送图片，发送文件按钮一样,内部已处理64k 自动分包问题
 
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://raw1.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 
 
